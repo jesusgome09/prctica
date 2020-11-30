@@ -1,12 +1,14 @@
-  #dd {background: rgb(255,255,0);
-                border: 5px solid black;
-      border-bottom-color: cornflowerblue;
+  .dd {background: rgb(255,255,0);
+                
+      width: 80px;
       font-family: "Comic Sans MS", fantasy;
          padding: 5px;
-             width: 100px;
-     position:absolute;
-         top:90px;
-       right:50%;
+              border:5px ridge greenyellow;
+                  border-bottom-color: red;
+                    border-top-color: aliceblue;
+      border-left-color: black;
+      border-right-color: gray;
+      
 }
 #como{
     background-color: red;
@@ -16,7 +18,7 @@
     width: 120px;
     padding: 5px;
         position: absolute;
-            top:140px;
+            top:500px;
     right:170px;
 }
 #magico{
@@ -28,4 +30,28 @@
     padding: 5px;
     position: absolute;
     left: 270px;
+    top:500px;
 }
+body {
+    background-color: greenyellow;
+    
+}
+h1{
+    font-family: comic sans MS;
+    font-size: 45px;
+    
+}
+#enter {
+    font-size: 17px;
+        font-family: sans-serif;
+}
+.discord{
+    
+    position: fixed;
+    top: 35px;
+    left:50px ;
+  
+}
+a:link{color: blue;
+text-decoration: none;}
+a:focus{color: pink}
