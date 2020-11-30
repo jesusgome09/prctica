@@ -1,0 +1,31 @@
+  #dd {background: rgb(255,255,0);
+                border: 5px solid black;
+      border-bottom-color: cornflowerblue;
+      font-family: "Comic Sans MS", fantasy;
+         padding: 5px;
+             width: 100px;
+     position:absolute;
+         top:90px;
+       right:50%;
+}
+#como{
+    background-color: red;
+    border: 5px ridge black;
+    border-bottom-color: cornflowerblue;
+    font-family:"comic sans MS";
+    width: 120px;
+    padding: 5px;
+        position: absolute;
+            top:140px;
+    right:170px;
+}
+#magico{
+    background-color: aqua;
+    border:5px outset black;
+    border-bottom-color: cornflowerblue;
+    font-family:comic sans MS;
+    width:135px;
+    padding: 5px;
+    position: absolute;
+    left: 270px;
+}
