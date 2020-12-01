@@ -68,5 +68,24 @@ a:hover{
     top: 40px;
     left: 32px;
 }
+@media screen and (max-width:480px){
+    .dd {background: rgb(9, 240, 45);
+
+      width: 80px;
+      font-family: "Comic Sans MS", fantasy;
+         padding: 5px;
+              border:5px ridge #abff2e;
+                  border-bottom-color: red;
+                    border-top-color: aliceblue;
+      border-left-color: black;
+        border-right-color: gray;
+    position: fixed;
+        left: 10px;
+        top:4px;}
+    h1{
+        font-size:122px;
+    }
+
+}
 
 
