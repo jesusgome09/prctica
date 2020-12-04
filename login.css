@@ -1,0 +1,60 @@
+h1{text-align: center;
+    font-family: comic sans MS;
+    border: 5px ridge red;
+    padding: 12x;
+   width: 350px;
+position: sticky;
+left: 36%;
+background-color: salmon;
+padding: 5px;
+}
+.marco{
+    border: 5px ridge rgb(11, 238, 60);
+         width: 400px;
+             position: sticky;
+        left: 34%;
+    font-family: cursive;
+    background-color: yellow;
+}
+.entrar{
+    border: 10px ridge black;
+        border-left-color: blue;
+            border-right-color: blue;
+                border-bottom-color: blueviolet;
+                    border-top-color: brown;
+                position:absolute;
+            left: 45%;
+        top: 47%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+body{
+    background-color: aqua;
+}
+.cuadro1{
+    font-family: comic sans MS;
+    border: 5px dashed aqua;
+    max-width: 430px;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    background-color: rgb(158, 29, 190);
+}
+a:link{
+    color: rgb(50, 230, 15);
+}
+a:active{
+    color: red;
+}
+.cuadro2{
+    border: 5px double blue;
+    max-width: 500px;
+    position: absolute;
+    right: 180px;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    top: 50%;
+    background-color: hotpink;
+}
