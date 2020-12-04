@@ -1,0 +1,26 @@
+para que al colocar el mouse sobre algo, la fechita cambie a la manito{
+cursor:pointer;
+}
+
+
+letras movibles html {
+       <marquee behavior="alternate" scrolldelay="-20"><b><i><U>primero de secundaria grupo B</U></i></b></marquee>
+}
+
+colocar logo a la pagina, debe estar entre el HEAD{
+    <link href="logo.png" type="image/x-icon" rel="ahortcut icon"/>
+}
+
+colocarle fondo centrado ala pagina, claro se debe colocar el div de todo el cuerpo, para tener todo lo demas adentro{
+
+    background:#2277AA;
+        
+        margin:10 14;
+        box-shadow:0px 0px 20px 20px #88AAFF ;
+        flex-wrap:wrap;
+        padding:flex-box;
+        flex-direction:row;
+        padding:15px;
+}
+
+right = derecha---- left = izquierda
