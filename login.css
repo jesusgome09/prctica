@@ -64,3 +64,9 @@ a{
 a:hover{
     text-decoration: underline;
 }
+a:hover.sobre{
+    color:#fff;
+    background-color: blue;
+ 
+ 
+  }
